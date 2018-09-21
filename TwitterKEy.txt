@@ -1,0 +1,4 @@
+ consumerKey = "dfeItIpWod9mjiVxuMCIW9zwF"
+        consumerSecret = "qI7duItqfXzho36XYMkTqaCYuiLH5zTQQSaXaqymOGyK2iq1x7"
+        accessToken = "2597834702-CPeIhpWKqP5SpOltXnt2HiHXiFTJcrYLnGQHftz"
+        accessTokenSecret = "EjhXpAm5wOpawMqtwEZgkPCVpzSp6Iptv8yo7Q3kBIMlD"
